@@ -36,3 +36,7 @@ HyDML_Main.r --- The set of main functions for HyDML, including sampling, featur
 HyDML_preprocess.r --- The preprocessing function for methylation data from TCGA.
 
 HyDML_preprocess_demo.r --- A example pipeline for the preprocessing of methylation data from TCGA.
+
+# Data
+
+We also uploaded differential methylation sites selected for each cancer data set and published the data for follow-up studies.
