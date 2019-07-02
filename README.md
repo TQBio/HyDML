@@ -40,3 +40,13 @@ HyDML_preprocess_demo.r --- A example pipeline for the preprocessing of methylat
 # Data
 
 We also uploaded differential methylation sites selected for each cancer data set and published the data for follow-up studies.
+
+
+# Demo demonstration
+
+You can download the "easy version" of HyDML from HyDML_demo.r and download the data from "Data" file;
+
+then you can implement the analysis of robust DML selection with R/RStudio. 
+
+You also could use HyDML for other feature selection domains with robustness problems, just make sure the input is a formal 'dataframe'
+style.
