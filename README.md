@@ -41,6 +41,10 @@ HyDML_preprocess_demo.r --- A example pipeline for the preprocessing of methylat
 
 We also uploaded differential methylation sites selected for each cancer data set and published the data for follow-up studies.
 
+Additionally, we uploaded the "SNP" file to address the DML which were marked as a SNP in annotation file and it's accessible under 
+
+"HyDML/Data/SNP/" file.
+
 
 # Demo demonstration
 
